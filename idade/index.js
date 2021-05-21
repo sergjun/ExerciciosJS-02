@@ -17,4 +17,4 @@ function calcIdade (nome="", anos=0, meses=0, dias=0){
     
 }
 
-console.log(calcIdade ("Sergio",28 , 7 ,200 ))
+console.log(calcIdade ("Lika",27 , 10 ,400 ))
